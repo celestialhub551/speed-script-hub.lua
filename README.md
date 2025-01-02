@@ -17,12 +17,12 @@ local v127 =
     }
 )
 local v128 = {
-    ["Home"] = v127:AddTab({["Title"] = "Home", ["Icon"] = "rbxassetid://7733960981"}),
-    ["Main"] = v127:AddTab({["Title"] = "Main", ["Icon"] = "rbxassetid://7733749837"}),
-    ["Misc"] = v127:AddTab({["Title"] = "Misc", ["Icon"] = "rbxassetid://7733789088"}),
-    ["Weather"] = v127:AddTab({["Title"] = "Weather", ["Icon"] = "rbxassetid://7734068495"}),
-    ["Teleport"] = v127:AddTab({["Title"] = "Teleport", ["Icon"] = "rbxassetid://7733924216"}),
-    ["Performance"] = v127:AddTab({["Title"] = "Performance", ["Icon"] = "rbxassetid://7733955511"}),
+    ["Home"] = v127:AddTab({["Title"] = "Home", ["Icon"] = "rbxassetid://109758422241434"}),
+    ["Main"] = v127:AddTab({["Title"] = "Main", ["Icon"] = "rbxassetid://109758422241434"}),
+    ["Misc"] = v127:AddTab({["Title"] = "Misc", ["Icon"] = "rbxassetid://109758422241434"}),
+    ["Weather"] = v127:AddTab({["Title"] = "Weather", ["Icon"] = "rbxassetid://109758422241434"}),
+    ["Teleport"] = v127:AddTab({["Title"] = "Teleport", ["Icon"] = "rbxassetid://109758422241434"}),
+    ["Performance"] = v127:AddTab({["Title"] = "Performance", ["Icon"] = "rbxassetid://109758422241434"}),
     ["Settings"] = v127:AddTab({["Title"] = "Settings", ["Icon"] = "settings"})
 }
 local v129 =
